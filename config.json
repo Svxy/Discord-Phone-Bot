@@ -1,0 +1,7 @@
+{
+    "prefix": "Your_Prefix_Here",
+    "callCoolDown": "15",
+    "eventName": "Your_Event_Name",
+    "IFTTTkey": "Your_IFTTT_Key",
+    "discordToken": "Your_Discord_Token"
+}
