@@ -87,4 +87,4 @@ If you'd like to contribute, go ahead!
 
 ___
 
-<h3 align=center>This project was built under the GNU Public License. See <a href='LICENSE'>LICENSE</a> for more details.</h3>
+<h3 align=center>This project was built under the GPL-3.0 License. See <a href='LICENSE'>LICENSE</a> for more details.</h3>
